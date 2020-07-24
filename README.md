@@ -13,8 +13,12 @@ This project is coded in python language and can be used to
 ## PREREQUISITE
 * python3.8.3
 * python libraries
+* vscode/Jupiter Notebook
+* internet connection *(for speech recognition through google)*
+
 
 ## To install
+if you get error installing pyaudio you can refer link [lfd](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 * pip install pyttsx3
 * pip install os
 * pip install pyautogui
@@ -23,4 +27,5 @@ This project is coded in python language and can be used to
 * pip install pyjokes
 * pip install psutil
 
-
+## license
+This project is under the mit license
