@@ -11,6 +11,7 @@ shutdown,restart,logout
 and many more
 
 PREREQUISITE
+
 python3.8.3
 python libraries
 
