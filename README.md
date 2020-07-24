@@ -19,13 +19,15 @@ This project is coded in python language and can be used to
 
 ## To install
 if you get error installing pyaudio you can refer link [lfd](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
-* pip install pyttsx3
-* pip install os
-* pip install pyautogui
-* pip install SpeechRecognition
-* pip install pyaudio
-* pip install pyjokes
-* pip install psutil
+* '''pip install pyttsx3'''
+* '''pip install os'''
+* '''pip install pyautogui'''
+* '''pip install SpeechRecognition'''
+* '''pip install pyaudio'''
+* '''pip install pyjokes'''
+* '''pip install psutil'''
 
 ## license
 This project is under the mit license
+
+** you can contact me for help at [linkedin]()
