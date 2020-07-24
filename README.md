@@ -30,4 +30,4 @@ if you get error installing pyaudio you can refer link [lfd](https://www.lfd.uci
 ## license
 This project is under the mit license
 
-**you can contact me for help at [linkedin](www.linkedin.com/in/thejaswin-s-22252318b)**
+**you can contact me for help at [linkedin](t.ly/0xIW)**
