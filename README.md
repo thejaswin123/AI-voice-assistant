@@ -1,4 +1,4 @@
-# voice-assistant
+# AI voice-assistant
 ## OVERVIEW
 
 This project is coded in python language and can be used to
